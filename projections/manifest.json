@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "draft-goblin-projection-feed-manifest-v2",
+  "generatedAt": "2026-07-18T02:38:48.992Z",
+  "expiresAt": "2026-07-19T04:38:48.992Z",
+  "bundle": {
+    "snapshotId": "pf_d892ada45ebca2199cb01eb1",
+    "url": "https://coolstick784.github.io/draft-goblin-projections/projections/snapshots/pf_d892ada45ebca2199cb01eb1.json",
+    "sha256": "d892ada45ebca2199cb01eb1b7a1cdfd975bdf2f39d4fe9f129ba5aafedc97ba",
+    "bytes": 743313
+  }
+}
