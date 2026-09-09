@@ -1,11 +1,11 @@
 {
   "schemaVersion": "draft-goblin-projection-feed-manifest-v2",
-  "generatedAt": "2026-09-07T15:54:32.749Z",
-  "expiresAt": "2026-09-08T17:54:32.749Z",
+  "generatedAt": "2026-09-09T14:40:12.180Z",
+  "expiresAt": "2026-09-10T16:40:12.180Z",
   "bundle": {
-    "snapshotId": "pf_dfd50f5e1c90a6f443593cb5",
-    "url": "https://coolstick784.github.io/draft-goblin-projections/projections/snapshots/pf_dfd50f5e1c90a6f443593cb5.json",
-    "sha256": "dfd50f5e1c90a6f443593cb54a8a24097bfaab0027637c10939b5fa89965ef51",
-    "bytes": 464160
+    "snapshotId": "pf_8cbdca594280ff721ca7f80d",
+    "url": "https://coolstick784.github.io/draft-goblin-projections/projections/snapshots/pf_8cbdca594280ff721ca7f80d.json",
+    "sha256": "8cbdca594280ff721ca7f80d55b84d9ec563022f93def684ed00eca3436ce59d",
+    "bytes": 465559
   }
 }
